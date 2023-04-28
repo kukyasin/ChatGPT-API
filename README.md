@@ -23,21 +23,25 @@ By examining the code, you can learn how to utilize the ChatGPT APIs in your own
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ChatGPT-API-Example.git
+git clone https://github.com/kukyasin/ChatGPT-API.git
 
 2. Enter the project directory:
+
 cd ChatGPT-API-Example
 
 3. Install the required dependencies:
+
 pip install -r requirements.txt
 
 4. Set your OpenAI API key as an environment variable:
+
 export OPENAI_API_KEY="your_api_key_here"
 
 
 ## Usage 📚
 
 1. Run the example script:
+
 python chatgpt_example.py
 
 
